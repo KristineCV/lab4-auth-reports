@@ -1,4 +1,4 @@
-Short Explanation of Each JOIN (Lab Context)
+Short Explanation of Each JOIN 
 
 INNER JOIN → Used in /reports/users-with-roles to list users that actually have assigned roles.
 
